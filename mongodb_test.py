@@ -1,7 +1,7 @@
 """
 Mick Welisevich
 17 JUN 2021
-Module 5 Assignment 3
+Module 5 Assignment 2
 """
 
 from pymongo import MongoClient
